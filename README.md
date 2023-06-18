@@ -6,7 +6,7 @@ Welcome to my awesome project! If you find this project useful or simply want to
 
 ## About the Project
 
-This is a What-Is-My-IP-Address application.
+This is a simple What-Is-My-IP-Address application.
 
 ## Installation
 
